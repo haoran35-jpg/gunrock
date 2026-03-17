@@ -46,6 +46,7 @@ add_subdirectory(spmv)
 add_subdirectory(spgemm)
 add_subdirectory(mst)
 add_subdirectory(tc)
+add_subdirectory(scc)
 # end /* Add algorithms' subdirectories */
 
 # begin /* Add experimental algorithms' subdirectories */

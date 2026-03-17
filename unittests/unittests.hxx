@@ -46,3 +46,4 @@
 // #include "io/mtxbin.cuh"
 
 #include "algorithms/tc.cuh"
+#include "algorithms/scc.cuh"
